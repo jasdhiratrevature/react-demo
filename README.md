@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### React CRUD Operations
+- Create a new file apiRequest which will hold the logic for handling the API request in a generic way.
+- Once the apiRequest is ready update the App.js to update the following functionality.
+  - addItem
+  - handleCheck
+  - handleDelete
+
